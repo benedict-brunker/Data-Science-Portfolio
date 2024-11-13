@@ -1,0 +1,17 @@
+name: bank-fraud-env
+channels: 
+  - conda-forge
+  - defaults 
+dependencies: 
+  - python=3.10 
+  - numpy 
+  - cython 
+  - scipy 
+  - scikit-learn=1.2.2 
+  - pandas=2.1.1 
+  - altair=4.2.2 
+  - imbalanced-learn 
+  - matplotlib 
+  - seaborn 
+  - requests 
+  - ipykernel 

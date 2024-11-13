@@ -1,0 +1,23 @@
+# necessary pre-dependencies for other builds 
+numpy 
+cython
+scipy 
+
+# version-specific packages 
+scikit-learn==1.2.2 
+pandas==2.1.1 
+altair==4.2.2 
+ 
+# ML packages 
+imbalanced-learn
+
+# data visuzliation packages 
+matplotlib 
+seaborn 
+dataprep 
+
+# web API packages 
+requests 
+
+# notebook packages
+ipykernel 
